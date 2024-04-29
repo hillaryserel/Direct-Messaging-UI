@@ -15,7 +15,7 @@ $(document).ready(function() {
             
             // Simulate receiving a response after a delay 
             setTimeout(function() {
-                receiveMessage("Thanks for your message!"); // Simulate receiving a response
+            receiveMessage("Thanks for your message!"); 
             }, 1000); // Change the delay as needed
         }
     }
