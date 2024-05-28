@@ -11,7 +11,7 @@ This is a simple Direct Messaging App built with HTML, CSS, and JavaScript. It a
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (jQuery)
+- jQuery
 
 ## Setup
 To run this project, you need to do the following:
